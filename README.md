@@ -1,0 +1,2 @@
+# Logistc_Regression_for_the_Detection_of_Malicious_URLs
+Logistic Regression Model for the Detection of Malicious URLs
